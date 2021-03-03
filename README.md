@@ -1,8 +1,6 @@
 ### Yo 👋
 
-My name is Ben, and I'm a workaholic. I spend most of my waking hours working on cool stuff with [AB Web Developers](https://abweb.com.au). I also maintain [October CMS](https://github.com/octobercms), an awesome PHP CMS built on the incomparable Laravel framework, and its delightful collection of first-party plugins under the [RainLab](https://github.com/rainlab) banner.
-
-Feel free to come say hi on Discord - https://discord.gg/gEKgwSZ.
+My name is Ben, and I'm a workaholic. I spend most of my waking hours working on cool stuff with [AB Web Developers](https://abweb.com.au).
 
 <!--
 **bennothommo/bennothommo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
