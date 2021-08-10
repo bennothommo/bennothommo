@@ -1,6 +1,8 @@
 ### Yo 👋
 
-My name is Ben, and I'm a workaholic. I spend most of my waking hours working on cool stuff with [AB Web Developers](https://abweb.com.au).
+My name is Ben, and I'm a workaholic. I am a core maintainer of @wintercms, a lovely Laravel-based content management framework.
+
+Come say hi on [Discord](https://discord.gg/invite/D5MFSPH6Ux).
 
 <!--
 **bennothommo/bennothommo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
