@@ -1,6 +1,6 @@
 ### Yo 👋
 
-My name is Ben, and I'm a workaholic. I am a core maintainer of @wintercms, a lovely Laravel-based content management framework.
+My name is Ben, and I'm a workaholic. I am a core maintainer of [Winter CMS](https://github.com/wintercms), a lovely Laravel-based content management framework.
 
 Come say hi on [Discord](https://discord.gg/invite/D5MFSPH6Ux).
 
